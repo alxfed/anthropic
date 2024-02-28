@@ -33,3 +33,5 @@ Please do the following:
 Assistant:"""
 )
 print(completion)
+
+# next - https://github.com/anthropics/anthropic-cookbook/blob/main/long_context/mc_qa.ipynb
